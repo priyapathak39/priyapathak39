@@ -2,7 +2,24 @@
 Myself priya pathak, BTech CSE 2025 graduate 
 
 # 💫 About Me:
-🚀 About Me<br>🔭 Current Focus: Mastering the MERN Stack while expanding my expertise in Python and Java/Spring Boot ecosystems.<br><br>💡 Dual-Stack Developer: Bridging the gap between the rapid deployment of JavaScript and the robust scalability of Java and Python.<br><br>🤝 Collaboration: I am actively looking to collaborate on Open Source or Private Projects based on the MERN Stack.<br><br>🙋‍♂️ Seeking Mentorship: I'm eager to connect with developers who have real-world project experience to help me transition from learning to professional-level delivery.<br><br>🛠️ Freelance Ready: I am open to freelance opportunities—I love taking a raw idea and turning it into a functional, creative digital product.<br><br>🎨 Creativity: To me, coding isn't just logic; it’s a creative outlet. Ask me how I blend creative UI design with complex backend architecture!
+🚀 About Me<br>
+
+ 🎓 Academic Excellence & Collaborative Innovation
+
+A dedicated Computer Science and Engineering graduate(2025 passout) with a consistent record of academic distinction , a passion for open-source development and full stack development. 
+
+* SSC: 10/10 CGPA (School Topper)
+* Intermediate: 98.2%
+* B.Tech: 7.62 CGPA (First Class with Distinction)
+
+ 🚀 Open Source & Experience
+* GSSoC 2025: Active Contributor to GirlScript Summer of Code.
+* Hacktoberfest 2025: Successfully contributed to global open-source projects.
+* Team Lead – Paranox Hackathon 2025:
+Directed a 3-person team in building a Waste Management System. I took full ownership of the project lifecycle—from brainstorming the initial concept to delivering the final solution—while mentoring team members and ensuring project milestones were met.
+
+
+🔭 Current Focus: Mastering the MERN Stack while expanding my expertise in Python and Java/Spring Boot ecosystems.<br><br>💡 Dual-Stack Developer: Bridging the gap between the rapid deployment of JavaScript and the robust scalability of Java and Python.<br><br>🤝 Collaboration: I am actively looking to collaborate on Open Source or Private Projects based on the MERN Stack.<br><br>🙋‍♂️ Seeking Mentorship: I'm eager to connect with developers who have real-world project experience to help me transition from learning to professional-level delivery.<br><br>🛠️ Freelance Ready: I am open to freelance opportunities—I love taking a raw idea and turning it into a functional, creative digital product.<br><br>🎨 Creativity: To me, coding isn't just logic; it’s a creative outlet. Ask me how I blend creative UI design with complex backend architecture!
 
 
 ## 🌐 Socials:
