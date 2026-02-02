@@ -1,5 +1,6 @@
 ## Hi there 👋
-Myself priya pathak, BTech CSE 2025 graduate 
+I'm priya pathak, BTech CSE 2025 graduate 
+Full-Stack Developer | MERN | Building real-world web applications 
 
 # 💫 About Me:
 🚀 About Me<br>
