@@ -7,7 +7,7 @@ Full-Stack Developer | MERN | Building real-world web applications
 
  🎓 Academic Excellence & Collaborative Innovation
 
-A dedicated Computer Science and Engineering graduate(2025 passout) with a consistent record of academic distinction , a passion for open-source development and full stack development. 
+A dedicated Computer Science and Engineering graduate(2025 passout) with a consistent record of academic distinction , a passion for open-source development , full stack development and competitive programming.
 
 * SSC: 10/10 CGPA (School Topper)
 * Intermediate: 98.2%
