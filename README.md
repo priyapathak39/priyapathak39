@@ -14,7 +14,7 @@ A dedicated Computer Science and Engineering graduate(2025 passout) with a consi
 * B.Tech: 7.62 CGPA (First Class with Distinction)
 
  🚀 Open Source & Experience
-* GSSoC 2025: Active Contributor to GirlScript Summer of Code.
+* GSSoC 2025: Active Contributor to GirlScript Summer of Code, contributed in 5-6 projects.
 * Hacktoberfest 2025: Successfully contributed to global open-source projects.
 * Team Lead – Paranox Hackathon 2025:
 Directed a 3-person team in building a Waste Management System. I took full ownership of the project lifecycle—from brainstorming the initial concept to delivering the final solution—while mentoring team members and ensuring project milestones were met.
